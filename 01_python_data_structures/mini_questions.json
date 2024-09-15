@@ -1,0 +1,10 @@
+{
+  "text": "is it a Python?",
+  "yes": {
+           "text": "it is a Python!"
+           },
+  "no": {
+           "text": "it is some other animal."
+           }
+}
+
