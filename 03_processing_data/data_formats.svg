@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5076"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="data_formats.svg"
+   inkscape:export-filename="/home/kristian/Desktop/advpy_nobleprog/infographics/data_formats.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
+  <defs
+     id="defs5070">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5091"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="scale(0.4) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#999999;stroke-width:1pt;stroke-opacity:1;fill:#999999;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path5089" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4799"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="scale(0.4) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#999999;stroke-width:1pt;stroke-opacity:1;fill:#999999;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path4797" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4489"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="scale(0.4) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#999999;stroke-width:1pt;stroke-opacity:1;fill:#999999;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path4487" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4191"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="scale(0.4) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#999999;stroke-width:1pt;stroke-opacity:1;fill:#999999;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path4189" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3989"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="scale(0.4) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#999999;stroke-width:1pt;stroke-opacity:1;fill:#999999;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path3987" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1039"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#999999;stroke-width:1pt;stroke-opacity:1;fill:#999999;fill-opacity:1"
+         transform="scale(0.8) translate(7.4, 1)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-142.30709"
+     inkscape:cy="251.44164"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g1438"
+     showgrid="false"
+     inkscape:window-width="1608"
+     inkscape:window-height="986"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:object-nodes="true" />
+  <metadata
+     id="metadata5073">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <text
+       id="text97"
+       y="199.48215"
+       x="40.821426"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="208.84592"
+         x="40.821426"
+         id="tspan95"
+         sodipodi:role="line" /></text>
+    <text
+       id="text101"
+       y="184.1741"
+       x="53.294643"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="193.53787"
+         x="53.294643"
+         id="tspan99"
+         sodipodi:role="line" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot85"
+       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,9.7680616,-49.703014)"><flowRegion
+         id="flowRegion81"><rect
+           id="rect79"
+           width="491.42859"
+           height="40"
+           x="43.571426"
+           y="599.4151" /></flowRegion><flowPara
+         id="flowPara83"
+         style="font-style:normal;font-size:21.33333397px">and Python libraries to read and write them</flowPara></flowRoot>    <g
+       transform="translate(186.71834,94.689597)"
+       id="g139" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9532"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-5.7276332,95.315476)"><flowRegion
+         id="flowRegion9534"><rect
+           id="rect9536"
+           width="950"
+           height="171.42857"
+           x="101.42857"
+           y="-2.0134804" /></flowRegion><flowPara
+         id="flowPara9538"
+         style="font-weight:bold">Common Data Formats</flowPara></flowRoot>    <g
+       id="g1931"
+       transform="translate(-1.1339285,60.383531)">
+      <rect
+         y="107.11451"
+         x="165.61443"
+         height="116.52951"
+         width="116.26224"
+         id="rect1880"
+         style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.46437088;stroke-miterlimit:4;stroke-dasharray:none" />
+      <g
+         transform="translate(-24.595315,-2.138156)"
+         id="g649">
+        <g
+           id="g2013"
+           transform="translate(214.24521,-23.99362)">
+          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-21.733631,87)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot2003"
+             xml:space="preserve"><flowRegion
+               id="flowRegion1999"><rect
+                 y="196.55795"
+                 x="34.285713"
+                 height="128.57143"
+                 width="440"
+                 id="rect1997" /></flowRegion><flowPara
+               style="font-weight:bold;font-size:26.66666794px"
+               id="flowPara2001">Databases</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-24.068889,-6.4546116)"
+             style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot2011"
+             xml:space="preserve"><flowRegion
+               id="flowRegion2007"><rect
+                 y="599.4151"
+                 x="43.571426"
+                 height="120"
+                 width="332.14285"
+                 id="rect2005" /></flowRegion><flowPara
+               style="font-size:16px"
+               id="flowPara2009">Python can talk to practically all databases. Here are the most common libraries:</flowPara></flowRoot>        </g>
+        <g
+           transform="translate(0,15.260796)"
+           id="g535">
+          <flowRoot
+             xml:space="preserve"
+             id="flowRoot85-3"
+             style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+             transform="matrix(0.26458333,0,0,0.26458333,203.37892,-12.265358)"><flowRegion
+               id="flowRegion81-6"><rect
+                 id="rect79-7"
+                 width="332.14285"
+                 height="120"
+                 x="43.571426"
+                 y="599.4151" /></flowRegion><flowPara
+               id="flowPara83-5"
+               style="font-style:normal;font-size:16px"><flowSpan
+   style="font-style:italic;font-weight:bold"
+   id="flowSpan5279">psycopg-binary</flowSpan> - PostGreSQL</flowPara></flowRoot>          <g
+             transform="translate(224.61235,-48.685409)"
+             id="g278-3">
+            <circle
+               r="4.0357122"
+               cy="198.84166"
+               cx="-18.23735"
+               id="circle268-5"
+               style="fill:#ccaaff;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+          </g>
+        </g>
+        <g
+           id="g5309"
+           transform="translate(0,-30.521575)">
+          <flowRoot
+             xml:space="preserve"
+             id="flowRoot5303"
+             style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+             transform="matrix(0.26458333,0,0,0.26458333,203.37892,49.714174)"><flowRegion
+               id="flowRegion5297"><rect
+                 id="rect5295"
+                 width="332.14285"
+                 height="120"
+                 x="43.571426"
+                 y="599.4151" /></flowRegion><flowPara
+               style="font-style:normal;font-size:16px"
+               id="flowPara5301"><flowSpan
+   id="flowSpan5299"
+   style="font-style:italic;font-weight:bold">mysql-connector</flowSpan> - MySQL</flowPara></flowRoot>          <g
+             id="g5307"
+             transform="translate(224.61235,12.357746)">
+            <circle
+               style="fill:#ccaaff;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+               id="circle5305"
+               cx="-18.23735"
+               cy="198.84166"
+               r="4.0357122" />
+          </g>
+        </g>
+        <g
+           id="g543"
+           transform="translate(0,33.380759)">
+          <flowRoot
+             xml:space="preserve"
+             id="flowRoot476"
+             style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+             transform="matrix(0.26458333,0,0,0.26458333,203.37892,16.333415)"><flowRegion
+               id="flowRegion472"><rect
+                 id="rect470"
+                 width="332.14285"
+                 height="120"
+                 x="43.571426"
+                 y="599.4151" /></flowRegion><flowPara
+               style="font-style:normal;font-size:16px"
+               id="flowPara474"><flowSpan
+   style="font-style:italic;font-weight:bold"
+   id="flowSpan5283">pymongo </flowSpan>- MongoDB</flowPara></flowRoot>          <g
+             transform="translate(224.61235,-21.023013)"
+             id="g500">
+            <circle
+               r="4.0357122"
+               cy="198.84166"
+               cx="-18.23735"
+               id="circle498"
+               style="fill:#ccaaff;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+          </g>
+        </g>
+        <g
+           transform="translate(224.61235,-2.9030425)"
+           id="g504">
+          <g
+             id="g519">
+            <flowRoot
+               transform="matrix(0.26458333,0,0,0.26458333,-21.233431,33.281566)"
+               style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               id="flowRoot484"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion480"><rect
+                   y="599.4151"
+                   x="43.571426"
+                   height="120"
+                   width="332.14285"
+                   id="rect478" /></flowRegion><flowPara
+                 id="flowPara482"
+                 style="font-style:normal;font-size:16px"><flowSpan
+   style="font-style:italic;font-weight:bold"
+   id="flowSpan5287">sqlalchemy</flowSpan> - a generic SQL interface and Object Relational Mapper (ORM)</flowPara></flowRoot>            <circle
+               style="fill:#ccaaff;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+               id="circle502"
+               cx="-18.23735"
+               cy="198.84166"
+               r="4.0357122" />
+          </g>
+        </g>
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,203.37892,-11.876062)"
+           style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot596"
+           xml:space="preserve"><flowRegion
+             id="flowRegion592"><rect
+               y="599.4151"
+               x="43.571426"
+               height="120"
+               width="332.14285"
+               id="rect590" /></flowRegion><flowPara
+             id="flowPara594"
+             style="font-style:normal;font-size:16px"><flowSpan
+   style="font-style:italic;font-weight:bold"
+   id="flowSpan5275">sqlite3</flowSpan> - local file-based DB</flowPara></flowRoot>        <g
+           id="g600"
+           transform="translate(224.61235,-48.685409)">
+          <circle
+             style="fill:#ccaaff;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+             id="circle598"
+             cx="-18.23735"
+             cy="198.84166"
+             r="4.0357122" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1180">
+      <g
+         id="g129"
+         transform="translate(44.484583,-15.173725)">
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,0,87)"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot9540"
+           xml:space="preserve"><flowRegion
+             id="flowRegion9542"><rect
+               y="196.55795"
+               x="34.285713"
+               height="128.57143"
+               width="440"
+               id="rect9544" /></flowRegion><flowPara
+             style="font-weight:bold;font-size:26.66666794px"
+             id="flowPara9546">CSV files</flowPara></flowRoot>        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,-2.3352579,-6.4546116)"
+           style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot117"
+           xml:space="preserve"><flowRegion
+             id="flowRegion113"><rect
+               y="599.4151"
+               x="43.571426"
+               height="108.51801"
+               width="263.42371"
+               id="rect111" /></flowRegion><flowPara
+             id="flowPara241"
+             style="font-style:normal;font-size:16px">The builtin <flowSpan
+   style="font-style:italic;font-weight:bold"
+   id="flowSpan1326">csv</flowSpan> module and the data analytics library <flowSpan
+   style="font-style:italic;font-weight:bold"
+   id="flowSpan1328">pandas</flowSpan> read and write CSV files.</flowPara></flowRoot>      </g>
+      <g
+         id="g1159">
+        <g
+           id="g1118"
+           transform="translate(0,10.958051)">
+          <path
+             sodipodi:nodetypes="cccccc"
+             inkscape:connector-curvature="0"
+             id="rect1037"
+             d="m 22.690087,117.75575 v 24.92405 h 24.924059 v -19.68473 l -5.33382,-5.23932 z"
+             style="fill:#aade87;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1043"
+             d="m 42.043971,117.83919 5.486738,5.48673 h -5.486738 v -5.48673"
+             style="fill:none;stroke:#000000;stroke-width:0.73599648;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,19.54549,82.374248)"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot1126"
+           xml:space="preserve"><flowRegion
+             id="flowRegion1122"><rect
+               y="196.55795"
+               x="34.285713"
+               height="74.023201"
+               width="93.517662"
+               id="rect1120" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666794px;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+             id="flowPara1124">CSV</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g1216"
+       transform="translate(0,33.545384)">
+      <g
+         transform="translate(44.484583,-15.173725)"
+         id="g1198">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot1188"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,0,87)"><flowRegion
+             id="flowRegion1184"><rect
+               id="rect1182"
+               width="440"
+               height="128.57143"
+               x="34.285713"
+               y="196.55795" /></flowRegion><flowPara
+             id="flowPara1186"
+             style="font-weight:bold;font-size:26.66666794px">XML files</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot1196"
+           style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,-2.3352579,-6.4546116)"><flowRegion
+             id="flowRegion1192"><rect
+               id="rect1190"
+               width="263.42371"
+               height="108.51801"
+               x="43.571426"
+               y="599.4151" /></flowRegion><flowPara
+             style="font-style:normal;font-size:16px"
+             id="flowPara1194">The builtin <flowSpan
+   style="font-weight:bold;font-style:italic"
+   id="flowSpan1334">xml</flowSpan> module has four different parsers. They produce the same tree data structure.</flowPara></flowRoot>      </g>
+      <g
+         id="g1214">
+        <g
+           transform="translate(0,10.958051)"
+           id="g1204">
+          <path
+             style="fill:#aade87;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 22.690087,117.75575 v 24.92405 h 24.924059 v -19.68473 l -5.33382,-5.23932 z"
+             id="path1200"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccc" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.73599648;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 42.043971,117.83919 5.486738,5.48673 h -5.486738 v -5.48673"
+             id="path1202"
+             inkscape:connector-curvature="0" />
+        </g>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot1212"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,19.54549,82.374248)"><flowRegion
+             id="flowRegion1208"><rect
+               id="rect1206"
+               width="93.517662"
+               height="74.023201"
+               x="34.285713"
+               y="196.55795" /></flowRegion><flowPara
+             id="flowPara1210"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666794px;font-family:monospace;-inkscape-font-specification:'monospace Bold'">XML</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       transform="translate(0,67.090769)"
+       id="g1252">
+      <g
+         id="g1234"
+         transform="translate(44.484583,-15.173725)">
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,0,87)"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot1224"
+           xml:space="preserve"><flowRegion
+             id="flowRegion1220"><rect
+               y="196.55795"
+               x="34.285713"
+               height="128.57143"
+               width="440"
+               id="rect1218" /></flowRegion><flowPara
+             style="font-weight:bold;font-size:26.66666794px"
+             id="flowPara1222">Excel files</flowPara></flowRoot>        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,-2.3352579,-6.4546116)"
+           style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot1232"
+           xml:space="preserve"><flowRegion
+             id="flowRegion1228"><rect
+               y="599.4151"
+               x="43.571426"
+               height="108.51801"
+               width="263.42371"
+               id="rect1226" /></flowRegion><flowPara
+             id="flowPara1230"
+             style="font-style:normal;font-size:16px">The <flowSpan
+   style="font-weight:bold;font-style:italic"
+   id="flowSpan1342">pandas</flowSpan> library is most convenient, for detailed manipulations check out <flowSpan
+   style="font-weight:bold;font-style:italic"
+   id="flowSpan1338">xlrd</flowSpan>.</flowPara></flowRoot>      </g>
+      <g
+         id="g1250">
+        <g
+           id="g1240"
+           transform="translate(0,10.958051)">
+          <path
+             sodipodi:nodetypes="cccccc"
+             inkscape:connector-curvature="0"
+             id="path1236"
+             d="m 22.690087,117.75575 v 24.92405 h 24.924059 v -19.68473 l -5.33382,-5.23932 z"
+             style="fill:#aade87;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1238"
+             d="m 42.043971,117.83919 5.486738,5.48673 h -5.486738 v -5.48673"
+             style="fill:none;stroke:#000000;stroke-width:0.73599648;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,17.655609,82.374248)"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot1248"
+           xml:space="preserve"><flowRegion
+             id="flowRegion1244"><rect
+               y="196.55795"
+               x="34.285713"
+               height="74.023201"
+               width="93.517662"
+               id="rect1242" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666794px;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+             id="flowPara1246">XLSX</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g1288"
+       transform="translate(0,100.63616)">
+      <g
+         transform="translate(44.484583,-15.173725)"
+         id="g1270">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot1260"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,0,87)"><flowRegion
+             id="flowRegion1256"><rect
+               id="rect1254"
+               width="440"
+               height="128.57143"
+               x="34.285713"
+               y="196.55795" /></flowRegion><flowPara
+             id="flowPara1258"
+             style="font-weight:bold;font-size:26.66666794px">JSON files</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot1268"
+           style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,-2.3352579,-6.4546116)"><flowRegion
+             id="flowRegion1264"><rect
+               id="rect1262"
+               width="263.42371"
+               height="108.51801"
+               x="43.571426"
+               y="599.4151" /></flowRegion><flowPara
+             style="font-style:normal;font-size:16px"
+             id="flowPara1266">The builtin <flowSpan
+   style="font-weight:bold;font-style:italic"
+   id="flowSpan1348">json</flowSpan> module parses all files, if the data is table-like,</flowPara><flowPara
+             style="font-style:normal;font-size:16px"
+             id="flowPara1346">try <flowSpan
+   style="font-weight:bold;font-style:italic"
+   id="flowSpan1352">pandas</flowSpan>.</flowPara></flowRoot>      </g>
+      <g
+         id="g1286">
+        <g
+           transform="translate(0,10.958051)"
+           id="g1276">
+          <path
+             style="fill:#aade87;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+             d="m 22.690087,117.75575 v 24.92405 h 24.924059 v -19.68473 l -5.33382,-5.23932 z"
+             id="path1272"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccccc" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.73599648;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 42.043971,117.83919 5.486738,5.48673 h -5.486738 v -5.48673"
+             id="path1274"
+             inkscape:connector-curvature="0" />
+        </g>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot1284"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,17.466621,82.374248)"><flowRegion
+             id="flowRegion1280"><rect
+               id="rect1278"
+               width="93.517662"
+               height="74.023201"
+               x="34.285713"
+               y="196.55795" /></flowRegion><flowPara
+             id="flowPara1282"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666794px;font-family:monospace;-inkscape-font-specification:'monospace Bold'">JSON</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       transform="translate(0,134.18155)"
+       id="g1324">
+      <g
+         id="g1306"
+         transform="translate(44.484583,-15.173725)">
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,0,87)"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot1296"
+           xml:space="preserve"><flowRegion
+             id="flowRegion1292"><rect
+               y="196.55795"
+               x="34.285713"
+               height="128.57143"
+               width="440"
+               id="rect1290" /></flowRegion><flowPara
+             style="font-weight:bold;font-size:26.66666794px"
+             id="flowPara1294">HTML docs</flowPara></flowRoot>        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,-2.3352579,-6.4546116)"
+           style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot1304"
+           xml:space="preserve"><flowRegion
+             id="flowRegion1300"><rect
+               y="599.4151"
+               x="43.571426"
+               height="108.51801"
+               width="263.42371"
+               id="rect1298" /></flowRegion><flowPara
+             id="flowPara1302"
+             style="font-style:normal;font-size:16px">The to-go library for parsing HTML pages is <flowSpan
+   style="font-weight:bold;font-style:italic"
+   id="flowSpan1362">BeatifulSoup4</flowSpan></flowPara><flowPara
+             style="font-style:normal;font-size:16px"
+             id="flowPara1356">(short <flowSpan
+   style="font-weight:bold;font-style:italic"
+   id="flowSpan1358">bs4</flowSpan>).</flowPara></flowRoot>      </g>
+      <g
+         id="g1322">
+        <g
+           id="g1312"
+           transform="translate(0,10.958051)">
+          <path
+             sodipodi:nodetypes="cccccc"
+             inkscape:connector-curvature="0"
+             id="path1308"
+             d="m 22.690087,117.75575 v 24.92405 h 24.924059 v -19.68473 l -5.33382,-5.23932 z"
+             style="fill:#aade87;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path1310"
+             d="m 42.043971,117.83919 5.486738,5.48673 h -5.486738 v -5.48673"
+             style="fill:none;stroke:#000000;stroke-width:0.73599648;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,17.277633,82.374248)"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot1320"
+           xml:space="preserve"><flowRegion
+             id="flowRegion1316"><rect
+               y="196.55795"
+               x="34.285713"
+               height="74.023201"
+               width="93.517662"
+               id="rect1314" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666794px;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+             id="flowPara1318">HTML</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g1438"
+       transform="translate(0,-2.1401123)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9554"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,186.57709,73.966384)"><flowRegion
+           id="flowRegion9550"><rect
+             id="rect9548"
+             width="440"
+             height="128.57143"
+             x="34.285713"
+             y="196.55795" /></flowRegion><flowPara
+           id="flowPara9552"
+           style="font-weight:bold;font-size:26.66666794px">Images</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot109"
+         style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,184.38308,-20.433173)"><flowRegion
+           id="flowRegion105"><rect
+             id="rect103"
+             width="276.58447"
+             height="112.92893"
+             x="43.571426"
+             y="599.4151" /></flowRegion><flowPara
+           id="flowPara107"
+           style="font-size:16px">The <flowSpan
+   style="font-weight:bold"
+   id="flowSpan5311">Pillow</flowSpan> library (PIL) reads and writes many common image formats and does some image processing.</flowPara></flowRoot>      <g
+         transform="translate(0,-132.66964)"
+         id="g1409">
+        <rect
+           style="fill:#ffaaee;fill-opacity:1;stroke:#000000;stroke-width:0.49999997;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect1990"
+           width="24.924059"
+           height="24.924026"
+           x="164.2916"
+           y="262.89536" />
+        <rect
+           y="265.90851"
+           x="167.30475"
+           height="18.897728"
+           width="18.897753"
+           id="rect1365"
+           style="fill:#ffaaee;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,161.30325,212.67418)"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot1248-9"
+           xml:space="preserve"><flowRegion
+             id="flowRegion1244-2"><rect
+               y="196.55795"
+               x="34.285713"
+               height="74.023201"
+               width="93.517662"
+               id="rect1242-2" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666794px;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+             id="flowPara1246-4">PNG</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot1397"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,161.30325,219.89046)"><flowRegion
+             id="flowRegion1393"><rect
+               id="rect1391"
+               width="93.517662"
+               height="74.023201"
+               x="34.285713"
+               y="196.55795" /></flowRegion><flowPara
+             id="flowPara1395"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666794px;font-family:monospace;-inkscape-font-specification:'monospace Bold'">JPG</flowPara></flowRoot>      </g>
+    </g>
+  </g>
+</svg>
