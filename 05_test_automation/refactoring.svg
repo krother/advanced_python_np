@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5076"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="refactoring.svg"
+   inkscape:export-filename="/home/kristian/Desktop/advpy_nobleprog/infographics/refactoring.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
+  <defs
+     id="defs5070">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5091"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="scale(0.4) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#999999;stroke-width:1pt;stroke-opacity:1;fill:#999999;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path5089" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4799"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="scale(0.4) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#999999;stroke-width:1pt;stroke-opacity:1;fill:#999999;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path4797" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4489"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="scale(0.4) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#999999;stroke-width:1pt;stroke-opacity:1;fill:#999999;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path4487" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4191"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="scale(0.4) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#999999;stroke-width:1pt;stroke-opacity:1;fill:#999999;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path4189" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3989"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         transform="scale(0.4) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#999999;stroke-width:1pt;stroke-opacity:1;fill:#999999;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path3987" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1039"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#999999;stroke-width:1pt;stroke-opacity:1;fill:#999999;fill-opacity:1"
+         transform="scale(0.8) translate(7.4, 1)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="374.63988"
+     inkscape:cy="510.27311"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1608"
+     inkscape:window-height="986"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:object-nodes="true" />
+  <metadata
+     id="metadata5073">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <text
+       id="text97"
+       y="199.48215"
+       x="40.821426"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="208.84592"
+         x="40.821426"
+         id="tspan95"
+         sodipodi:role="line" /></text>
+    <text
+       id="text101"
+       y="184.1741"
+       x="53.294643"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="193.53787"
+         x="53.294643"
+         id="tspan99"
+         sodipodi:role="line" /></text>
+    <g
+       transform="translate(-68.791667,13.586166)"
+       id="g159">
+      <g
+         id="g384"
+         transform="translate(75.904545,-98.622455)">
+        <rect
+           y="239.7572"
+           x="14.967093"
+           height="86.595329"
+           width="110.38231"
+           id="rect344"
+           style="fill:#e6e6e6;stroke:none;stroke-width:0.69754696;stroke-miterlimit:4;stroke-dasharray:none" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot9570"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,18.617847,193.50909)"><flowRegion
+             id="flowRegion9566"><rect
+               id="rect9564"
+               width="440"
+               height="128.57143"
+               x="34.285713"
+               y="196.55795" /></flowRegion><flowPara
+             id="flowPara9568"
+             style="font-weight:bold;font-size:26.66666794px">Refactoring workflow</flowPara></flowRoot>        <g
+           transform="translate(17.372519,37.150464)"
+           id="g310">
+          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,21.314685,71.941252)"
+             style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot85"
+             xml:space="preserve"><flowRegion
+               id="flowRegion81"><rect
+                 y="599.4151"
+                 x="43.571426"
+                 height="120"
+                 width="332.14285"
+                 id="rect79" /></flowRegion><flowPara
+               style="font-style:italic;font-size:21.33333397px"
+               id="flowPara83">Run the tests</flowPara></flowRoot>          <g
+             id="g266">
+            <circle
+               r="7.0870533"
+               cy="233.42648"
+               cx="18.42634"
+               id="path247"
+               style="fill:#aaccff;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none" />
+            <flowRoot
+               transform="matrix(0.26458333,0,0,0.26458333,6.7568165,174.59598)"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               id="flowRoot259"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion255"><rect
+                   y="196.55795"
+                   x="34.285713"
+                   height="128.57143"
+                   width="440"
+                   id="rect253" /></flowRegion><flowPara
+                 style="font-weight:bold;font-size:26.66666794px"
+                 id="flowPara257">1</flowPara></flowRoot>          </g>
+        </g>
+        <g
+           transform="translate(17.372519,37.150464)"
+           id="g342">
+          <g
+             transform="translate(0,37.419642)"
+             id="g290">
+            <circle
+               r="7.0870533"
+               cy="233.42648"
+               cx="18.42634"
+               id="circle280"
+               style="fill:#ffaaee;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none" />
+            <flowRoot
+               transform="matrix(0.26458333,0,0,0.26458333,6.7568165,174.59598)"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               id="flowRoot288"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion284"><rect
+                   y="196.55795"
+                   x="34.285713"
+                   height="128.57143"
+                   width="440"
+                   id="rect282" /></flowRegion><flowPara
+                 style="font-weight:bold;font-size:26.66666794px"
+                 id="flowPara286">3</flowPara></flowRoot>          </g>
+          <flowRoot
+             xml:space="preserve"
+             id="flowRoot298"
+             style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+             transform="matrix(0.26458333,0,0,0.26458333,21.314685,109.36089)"><flowRegion
+               id="flowRegion294"><rect
+                 id="rect292"
+                 width="332.14285"
+                 height="120"
+                 x="43.571426"
+                 y="599.4151" /></flowRegion><flowPara
+               id="flowPara296"
+               style="font-style:italic;font-size:21.33333397px">Run the tests again</flowPara></flowRoot>        </g>
+        <g
+           transform="translate(17.372519,36.866985)"
+           id="g330">
+          <g
+             id="g278"
+             transform="translate(0,18.993303)">
+            <circle
+               style="fill:#ccaaff;stroke:#000000;stroke-width:0.75;stroke-miterlimit:4;stroke-dasharray:none"
+               id="circle268"
+               cx="18.42634"
+               cy="233.42648"
+               r="7.0870533" />
+            <flowRoot
+               xml:space="preserve"
+               id="flowRoot276"
+               style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               transform="matrix(0.26458333,0,0,0.26458333,6.7568165,174.59598)"><flowRegion
+                 id="flowRegion272"><rect
+                   id="rect270"
+                   width="440"
+                   height="128.57143"
+                   x="34.285713"
+                   y="196.55795" /></flowRegion><flowPara
+                 id="flowPara274"
+                 style="font-weight:bold;font-size:26.66666794px">2</flowPara></flowRoot>          </g>
+          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,21.314685,90.934555)"
+             style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot318"
+             xml:space="preserve"><flowRegion
+               id="flowRegion314"><rect
+                 y="599.4151"
+                 x="43.571426"
+                 height="120"
+                 width="332.14285"
+                 id="rect312" /></flowRegion><flowPara
+               style="font-style:italic;font-size:21.33333397px"
+               id="flowPara316">Edit the code</flowPara></flowRoot>        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(44.188305,62.118875)"
+       id="g149">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9562"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,0,133.86905)"><flowRegion
+           id="flowRegion9558"><rect
+             id="rect9556"
+             width="440"
+             height="128.57143"
+             x="34.285713"
+             y="196.55795" /></flowRegion><flowPara
+           id="flowPara9560"
+           style="font-weight:bold;font-size:26.66666794px">Short refactoring</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot93"
+         style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,-1.9383829,39.752977)"><flowRegion
+           id="flowRegion89"><rect
+             id="rect87"
+             width="271.53372"
+             height="94.746162"
+             x="43.571426"
+             y="599.4151" /></flowRegion><flowPara
+           id="flowPara91"
+           style="font-size:16px">A good refactoring takes less than ten minutes. Aim to do a series of refactorings rather than fixing everything at once.</flowPara></flowRoot>    </g>
+    <g
+       transform="translate(179.76933,84.041495)"
+       id="g139">
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-0.14124892,111.94643)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot9554"
+         xml:space="preserve"><flowRegion
+           id="flowRegion9550"><rect
+             y="196.55795"
+             x="34.285713"
+             height="128.57143"
+             width="440"
+             id="rect9548" /></flowRegion><flowPara
+           style="font-weight:bold;font-size:26.66666794px"
+           id="flowPara9552">Tests are required</flowPara></flowRoot>      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-2.3352579,17.546876)"
+         style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot109"
+         xml:space="preserve"><flowRegion
+           id="flowRegion105"><rect
+             y="599.4151"
+             x="43.571426"
+             height="112.92893"
+             width="276.58447"
+             id="rect103" /></flowRegion><flowPara
+           style="font-size:16px"
+           id="flowPara107">Refactoring without at least some test automation is difficult and risks breaking your code.</flowPara></flowRoot>    </g>
+    <g
+       transform="translate(44.484583,-26.131776)"
+       id="g129">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9540"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,0,87)"><flowRegion
+           id="flowRegion9542"><rect
+             id="rect9544"
+             width="440"
+             height="128.57143"
+             x="34.285713"
+             y="196.55795" /></flowRegion><flowPara
+           id="flowPara9546"
+           style="font-weight:bold;font-size:26.66666794px">What is refactoring?</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot117"
+         style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,-2.3352579,-6.4546116)"><flowRegion
+           id="flowRegion113"><rect
+             id="rect111"
+             width="263.42371"
+             height="108.51801"
+             x="43.571426"
+             y="599.4151" /></flowRegion><flowPara
+           style="font-size:16px"
+           id="flowPara237">Improve the structure of software without changing its observable behavior.</flowPara><flowPara
+           style="font-style:italic;font-size:16px"
+           id="flowPara241">(adapted from Martin Fowler)</flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9532"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-5.7276332,95.315476)"><flowRegion
+         id="flowRegion9534"><rect
+           id="rect9536"
+           width="950"
+           height="171.42857"
+           x="101.42857"
+           y="-2.0134804" /></flowRegion><flowPara
+         id="flowPara9538"
+         style="font-weight:bold">Refactoring</flowPara></flowRoot>    <g
+       id="g1931"
+       transform="translate(-7.1815475,17.672222)">
+      <rect
+         y="107.11451"
+         x="165.61443"
+         height="116.52951"
+         width="116.26224"
+         id="rect1880"
+         style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.46437088;stroke-miterlimit:4;stroke-dasharray:none" />
+      <g
+         transform="translate(-24.595315,-2.138156)"
+         id="g649">
+        <g
+           id="g2013"
+           transform="translate(214.24521,-23.99362)">
+          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-21.733631,87)"
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot2003"
+             xml:space="preserve"><flowRegion
+               id="flowRegion1999"><rect
+                 y="196.55795"
+                 x="34.285713"
+                 height="128.57143"
+                 width="440"
+                 id="rect1997" /></flowRegion><flowPara
+               style="font-weight:bold;font-size:26.66666794px"
+               id="flowPara2001">Example refactorings</flowPara></flowRoot>          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,-24.068889,-6.4546116)"
+             style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot2011"
+             xml:space="preserve"><flowRegion
+               id="flowRegion2007"><rect
+                 y="599.4151"
+                 x="43.571426"
+                 height="120"
+                 width="332.14285"
+                 id="rect2005" /></flowRegion><flowPara
+               style="font-size:16px"
+               id="flowPara2009">Here are a few common small refactorings you might see frequently:</flowPara></flowRoot>        </g>
+        <g
+           id="g588">
+          <g
+             id="g535"
+             transform="translate(0,15.260796)">
+            <flowRoot
+               transform="matrix(0.26458333,0,0,0.26458333,203.37892,-15.403843)"
+               style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               id="flowRoot85-3"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion81-6"><rect
+                   y="599.4151"
+                   x="43.571426"
+                   height="120"
+                   width="332.14285"
+                   id="rect79-7" /></flowRegion><flowPara
+                 style="font-style:normal;font-size:21.33333397px"
+                 id="flowPara83-5">replace a loop by a comprehension</flowPara></flowRoot>            <g
+               id="g278-3"
+               transform="translate(224.61235,-48.685409)">
+              <circle
+                 style="fill:#ccaaff;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="circle268-5"
+                 cx="-18.23735"
+                 cy="198.84166"
+                 r="4.0357122" />
+            </g>
+          </g>
+          <g
+             transform="translate(0,2.8591843)"
+             id="g543">
+            <flowRoot
+               transform="matrix(0.26458333,0,0,0.26458333,203.37892,16.333415)"
+               style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               id="flowRoot476"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion472"><rect
+                   y="599.4151"
+                   x="43.571426"
+                   height="120"
+                   width="332.14285"
+                   id="rect470" /></flowRegion><flowPara
+                 id="flowPara474"
+                 style="font-style:normal;font-size:21.33333397px">move a variable into a class</flowPara></flowRoot>            <g
+               id="g500"
+               transform="translate(224.61235,-21.023013)">
+              <circle
+                 style="fill:#ccaaff;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="circle498"
+                 cx="-18.23735"
+                 cy="198.84166"
+                 r="4.0357122" />
+            </g>
+          </g>
+          <g
+             id="g504"
+             transform="translate(224.61235,-2.9030425)">
+            <g
+               id="g519">
+              <flowRoot
+                 xml:space="preserve"
+                 id="flowRoot484"
+                 style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+                 transform="matrix(0.26458333,0,0,0.26458333,-21.233431,33.281566)"><flowRegion
+                   id="flowRegion480"><rect
+                     id="rect478"
+                     width="332.14285"
+                     height="120"
+                     x="43.571426"
+                     y="599.4151" /></flowRegion><flowPara
+                   style="font-style:normal;font-size:21.33333397px"
+                   id="flowPara482">replace an if/elif block by a dictionary</flowPara></flowRoot>              <circle
+                 r="4.0357122"
+                 cy="198.84166"
+                 cx="-18.23735"
+                 id="circle502"
+                 style="fill:#ccaaff;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+            </g>
+          </g>
+          <g
+             id="g551">
+            <flowRoot
+               xml:space="preserve"
+               id="flowRoot492"
+               style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               transform="matrix(0.26458333,0,0,0.26458333,203.37892,49.714174)"><flowRegion
+                 id="flowRegion488"><rect
+                   id="rect486"
+                   width="332.14285"
+                   height="120"
+                   x="43.571426"
+                   y="599.4151" /></flowRegion><flowPara
+                 style="font-style:normal;font-size:21.33333397px"
+                 id="flowPara490">create a new module</flowPara></flowRoot>            <g
+               id="g508"
+               transform="translate(224.61235,12.357746)">
+              <circle
+                 style="fill:#ccaaff;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="circle506"
+                 cx="-18.23735"
+                 cy="198.84166"
+                 r="4.0357122" />
+            </g>
+          </g>
+          <g
+             id="g602"
+             transform="translate(0,-15.367998)">
+            <flowRoot
+               transform="matrix(0.26458333,0,0,0.26458333,203.37892,3.4919358)"
+               style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               id="flowRoot596"
+               xml:space="preserve"><flowRegion
+                 id="flowRegion592"><rect
+                   y="599.4151"
+                   x="43.571426"
+                   height="120"
+                   width="332.14285"
+                   id="rect590" /></flowRegion><flowPara
+                 id="flowPara594"
+                 style="font-style:normal;font-size:21.33333397px">split a function in two</flowPara></flowRoot>            <g
+               id="g600"
+               transform="translate(224.61235,-33.317411)">
+              <circle
+                 style="fill:#ccaaff;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+                 id="circle598"
+                 cx="-18.23735"
+                 cy="198.84166"
+                 r="4.0357122" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.9515771,0,0,0.9515771,-2.97084,43.103659)"
+       id="g266-2">
+      <circle
+         r="13.548717"
+         cy="234.08794"
+         cx="40.443451"
+         id="path247-7"
+         style="fill:#aaccff;stroke:#000000;stroke-width:0.5254435;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g713"
+       transform="matrix(0.9515771,0,0,0.9515771,-2.97084,43.103659)">
+      <path
+         style="fill:#3083ff;fill-opacity:1;stroke:#000000;stroke-width:0.52544349;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle711"
+         sodipodi:type="arc"
+         sodipodi:cx="40.443451"
+         sodipodi:cy="234.08794"
+         sodipodi:rx="13.548717"
+         sodipodi:ry="13.548717"
+         sodipodi:start="4.712389"
+         sodipodi:end="5.7595865"
+         d="m 40.443451,220.53922 a 13.548717,13.548717 0 0 1 11.733532,6.77436 l -11.733532,6.77436 z" />
+    </g>
+    <g
+       id="g1988"
+       transform="matrix(0.88307957,0,0,0.88307957,-118.40624,-103.33304)">
+      <g
+         style="stroke-width:0.76828587"
+         transform="matrix(0.6677916,0,0,0.81330544,57.609425,43.723019)"
+         id="g1957">
+        <rect
+           style="fill:#ffaaee;fill-opacity:1;stroke:#000000;stroke-width:0.76828587;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect1933"
+           width="15.234363"
+           height="8.2853546"
+           x="160.89626"
+           y="265.99673" />
+        <rect
+           y="265.99673"
+           x="178.0015"
+           height="8.2853546"
+           width="15.234363"
+           id="rect1951"
+           style="fill:#ffaaee;fill-opacity:1;stroke:#000000;stroke-width:0.76828587;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+      <rect
+         y="251.6908"
+         x="170.76596"
+         height="6.738524"
+         width="10.173379"
+         id="rect1953"
+         style="fill:#ffaaee;fill-opacity:1;stroke:#000000;stroke-width:0.56620038;stroke-miterlimit:4;stroke-dasharray:none" />
+      <g
+         style="stroke-width:0.76828587"
+         transform="matrix(0.6677916,0,0,0.81330544,59.215752,42.853535)"
+         id="g1977">
+        <rect
+           y="277.35568"
+           x="149.9382"
+           height="8.2853546"
+           width="15.234363"
+           id="rect1959"
+           style="fill:#ffaaee;fill-opacity:1;stroke:#000000;stroke-width:0.76828587;stroke-miterlimit:4;stroke-dasharray:none" />
+        <rect
+           style="fill:#ffaaee;fill-opacity:1;stroke:#000000;stroke-width:0.76828587;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect1961"
+           width="15.234363"
+           height="8.2853546"
+           x="167.04344"
+           y="277.35568" />
+        <g
+           style="stroke-width:0.76828587"
+           transform="translate(6.1471889,11.358955)"
+           id="g1969">
+          <rect
+             style="fill:#ffaaee;fill-opacity:1;stroke:#000000;stroke-width:0.76828587;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect1967"
+             width="15.234363"
+             height="8.2853546"
+             x="178.0015"
+             y="265.99673" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1996"
+       transform="translate(-5.9257489)">
+      <rect
+         y="259.8996"
+         x="164.54988"
+         height="15.614517"
+         width="15.614517"
+         id="rect1990"
+         style="fill:#ffaaee;fill-opacity:1;stroke:#000000;stroke-width:0.38250783;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path1992"
+         d="m 167.53795,262.50967 5.38615,4.25223 11.52828,-15.68601 -11.52828,21.73363 z"
+         style="fill:#999999;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

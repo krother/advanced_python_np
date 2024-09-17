@@ -25,6 +25,13 @@ Discuss the following:
 * Which Python data types can you find in the program?
 * Which other Python data types do you know?
 
+### Exercise 3: Create functions
+
+Introduce two functions:
+
+- read_data()
+- play()
+
 ### Exercise 4: Type annotations
 
 Add type annotations to the function arguments and return values.
