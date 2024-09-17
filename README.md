@@ -90,9 +90,9 @@
 * Parsing HTML with BS4 and RegEx
 * web-testing with playwright?
 
-# Links
+----
 
-## Overview
+## Links
 
 These two references are closely connected to the course contents:
 
@@ -109,6 +109,9 @@ These two references are closely connected to the course contents:
 
 * [Functions and parameters](https://www.academis.eu/advanced_python/functions/function_parameters.html) - also see following pages
 
+## Reading and writing tabular data with pandas
+
+* [pandas go to space tutorial](https://www.academis.eu/pandas_go_to_space/)
 
 ## Object-Oriented Python
 
