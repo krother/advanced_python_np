@@ -115,7 +115,7 @@ If you want to use an inherited method, use in the child classes:
 Try making the three `execute()` methods static by adding the `staticmethod` decorator and removing the `self` parameter:
 
     @staticmethod
-    def executed():
+    def execute():
         ...
     
 For which of the methods does it work?
