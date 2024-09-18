@@ -1,0 +1,45 @@
+
+{% if data.message %}
+<article class="pico-color-pink-500">{{ data.message }}</article>
+{% endif %}
+
+<div class="grid">
+
+  <div>
+    <article class="component">
+      {% for action in data.commands %}
+        <button style="width:80%;margin:10px"
+          class='btn'
+          hx-get="/action/{{ data.game_id }}/{{ action }}"
+          hx-target="#game-main"
+        >{{ action }}</button>
+      {% endfor %}
+    </article>
+  </div>
+
+  <div>
+    <h3>{{ data.location.name }}</h3>
+    <img src="images/planets/{{ data.location.image }}.png" width="400px">
+    <article>TODO: insert description</article>
+
+  </div>
+
+  <div>
+
+    <article class="component">
+      <h3>Crew</h3>
+      {% for char in data.crew %}
+      <img src="images/characters/{{ char }}.png" width="128px">
+      {% endfor %}
+    </article>
+
+    <article class="component">
+        <h3>Cargo</h3>
+        {% if data.cargo %}
+        <img src="images/goods/{{ data.cargo }}.png" width="128px">
+        {% endif %}
+      </article>
+  
+  </div>
+  
+</div>

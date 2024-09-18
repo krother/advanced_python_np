@@ -1,0 +1,37 @@
+<!doctype html>
+<html data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light dark" />
+  <script src="htmx.min.js"></script>
+<link rel="stylesheet" href="css/pico.min.css" />
+  <link rel="stylesheet" href="css/pico.colors.min.css" />
+</head>
+<body>
+
+  <header class="container pico-background-azure-700" style="margin-top:20px">
+    <div>
+      <img src="logo.png" style="float:left;padding-top:20px;padding-bottom:20px;padding-left:30px;padding-right:50px;">
+      <div style="padding:20px;vertical-align: middle">
+        <h1>Pandas go to Space</h1>
+        <h3>a space travel adventure</h3>
+      </div>
+    </div>
+  </header>
+  <main class="container" id="game-main">
+
+    <div style="width:100%"><img src="images/title.jpg" style="width:100%"></div>
+
+    <div style="width:100%">
+      <button style="width:100%;margin-top:20px"
+              class='btn'
+              hx-get="/new_game"
+              hx-target="#game-main"
+      >Start New Game</button>
+    </div>
+
+  </main>
+
+</body>
+</html>
