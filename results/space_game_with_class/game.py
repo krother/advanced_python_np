@@ -110,6 +110,10 @@ class Game:
         self.cargo: str = ""
         self.crew: list[str] = ["panda"]
 
+    @property
+    def current_location(self):
+        return self.location.name
+
     def is_solved(self) -> bool:
         """Returns True when the game is finished"""
         return self.location.name == "Rainbow portal"

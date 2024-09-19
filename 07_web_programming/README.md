@@ -14,7 +14,7 @@ Run the FastAPI server with:
 
     uvicorn --reload space_game.app:app
 
-Open a browser at `http://localhost:8000/new_game` .
+Open a browser at `http://localhost:8000/` .
 
 You should see a front page with graphics.
 
